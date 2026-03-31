@@ -1,1 +1,1 @@
-https://github.com/armaevaaaa/posmotri-v-okno-ad/new/main?filename=README.md
+https://github.com/armaevaaaa/posmotri-v-okno-ad
